@@ -1,0 +1,68 @@
+body {
+    background-color: cyan;
+}
+
+.inicio {
+    text-align: center;
+}
+
+.inicio h2 {
+    text-align: center;
+}
+
+.redes_sociais {
+    text-align: center;
+}
+
+img {
+    height: 10%;
+    width: 10%;
+    border-radius: 90%;
+}
+
+.imagem {
+    text-align: center;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.conteudo1 {
+    background-color: whitesmoke;
+    height: 100%;
+    width: 90%;
+    margin-left: 50px;
+    display: inline-block !important;
+    color: cyan;
+    border-radius: 20px
+}
+
+h2 {
+    color: #36747d;
+    text-align: left;
+    padding-left: 10px;
+}
+
+p {
+    color: #9c9c9c;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.container2 {
+    width: 100%;
+    flex-direction: column;
+}
+
+.conteudo2 {
+    background-color: whitesmoke;
+    height: 100%;
+    width: 90%;
+    margin-right: 50px;
+    display: inline-block !important;
+    color: cyan;
+    border-radius: 20px
+}
